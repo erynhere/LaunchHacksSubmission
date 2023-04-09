@@ -1,0 +1,16 @@
+{
+    "vaccines": [
+        {
+            "name": "DTaP",
+            "dategiven": "04/29/2020"
+        },
+        {
+            "name": "PCV13",
+            "dategiven": "12/20/2019"
+        },
+        {
+            "name": "RV1",
+            "dategiven": "09/14/2017"
+        }
+    ]
+}

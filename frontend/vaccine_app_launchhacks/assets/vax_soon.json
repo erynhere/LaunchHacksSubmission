@@ -1,0 +1,16 @@
+{
+    "vaccines": [
+        {
+            "name": "VAR",
+            "year": "2024"
+        },
+        {
+            "name": "MMRV",
+            "year": "2025"
+        },
+        {
+            "name": "IIV3",
+            "year": "2025"
+        }
+    ]
+}
